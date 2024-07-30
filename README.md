@@ -1,2 +1,0 @@
-# Settasoros
-LAB01
